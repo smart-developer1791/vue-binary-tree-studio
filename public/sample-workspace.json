@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "A balanced little number grove",
+  "values": [40, 20, 60, 10, 30, 50, 70, 25, 35],
+  "query": 35,
+  "provenance": {
+    "project": "vue-binary-tree-studio",
+    "author": "CodeSculptor",
+    "marker": "BT-F1EAEDA7"
+  }
+}
